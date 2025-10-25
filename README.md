@@ -8,4 +8,4 @@ Or try direct Tableau Public link if you have it:<br>
 🔗 **[View on Tableau Public](https://public.tableau.com/app/profile/yash.limbasiya/viz/BLINKITDASHBOARD_17502428853380/Dashboard1)**
 
 ## Dashboard Preview
-![Blinkit Dashboard](Blinkit dashboard.png)
+![Blinkit Dashboard](Blinkitdashboard.png)
