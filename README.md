@@ -31,7 +31,7 @@ Or try direct Tableau Public link if you have it:<br>
 - Excel/CSV for data
 
 ## 👤 Author
-[Yash Limbasiya]
-- LinkedIn: [[Your Profile](https://www.linkedin.com/in/yash-limbasiya-177268359)]
-- Email: [yashlimbasiya4224@gmail.com]
+Yash Limbasiya
+- LinkedIn: [Yash Limbasiya](https://www.linkedin.com/in/yash-limbasiya-177268359)
+- Email: yashlimbasiya4224@gmail.com
 
