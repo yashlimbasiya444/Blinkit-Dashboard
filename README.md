@@ -1,37 +1,3 @@
-# Blinkit-Dashboard
-## 📊 Live Dashboard
-
-Questions for create Dashboard:<br>
-🔗 **[View Interactive Dashboard on Tableau Public](https://fingertips.co.in/cloud2/student/view-material/250)**
-
-Or try direct Tableau Public link if you have it:<br>
-🔗 **[View on Tableau Public](https://public.tableau.com/app/profile/yash.limbasiya/viz/BLINKITDASHBOARD_17502428853380/Dashboard1)**
-
-## Dashboard Preview
-![Blinkit Dashboard](Blinkitdashboard.png)<br>
-
-
-# Blinkit Grocery Sales Dashboard – Tableau Project
-
-[Your description here]
-
-## 📊 View Dashboard
-🔗 [Interactive Dashboard Link](https://fingertips.co.in/cloud2/student/view-material/250)
-
-## 📸 Dashboard Preview
-![Dashboard Screenshot](Screenshot-2025-09-14-190153.jpg)
-
-## 📁 Repository Contents
-- [`Tableau BlinkIT Grocery Project U16955293080.txt`](https://github.com/yashlimbasiya444/Blinkit-Dashboard/blob/main/Tableau%20BlinkIT%20Grocery%20Project%20U16955293080.txt) – Raw dataset (CSV-format, used for analysis and dashboard creation)
-- `screenshots/` – Dashboard images and visualizations
-- `README.md` – Project documentation, instructions, and dashboard link
-
-
-## 🛠️ Tools Used
-- Tableau Public
-- Excel/CSV for data
-
-
 # Blinkit Grocery Sales Dashboard – Tableau Project
 
 This repository contains an end-to-end Tableau analytics dashboard project based on Blinkit (India’s Last Minute App), focusing on comprehensive sales insights, item segmentation, and outlet performance analysis using real-world grocery retail data.
@@ -84,21 +50,39 @@ This repository contains an end-to-end Tableau analytics dashboard project based
 
 ---
 
-## 📊 Embedded Dashboard
+## 📊 Live Dashboard
 
-**🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/yash.limbasiya/viz/BLINKITDASHBOARD_17502428853380/Dashboard1)**
+Questions for create Dashboard:<br>
+🔗 **[View Interactive Dashboard on Tableau Public](https://fingertips.co.in/cloud2/student/view-material/250)**
 
-### Dashboard Preview
+Or try direct Tableau Public link if you have it:<br>
+🔗 **[View on Tableau Public](https://public.tableau.com/app/profile/yash.limbasiya/viz/BLINKITDASHBOARD_17502428853380/Dashboard1)**
 
-![Blinkit Dashboard](Screenshot-2025-09-14-190153.jpg)
+## Dashboard Preview
+![Blinkit Dashboard](Blinkitdashboard.png)<br>
+
+
+# Blinkit Grocery Sales Dashboard – Tableau Project
+
+[Your description here]
+
+## 📊 View Dashboard
+🔗 [Interactive Dashboard Link](https://fingertips.co.in/cloud2/student/view-material/250)
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot](Screenshot-2025-09-14-190153.jpg)
 
 ---
 
-## 📁 Repository Contents
-
+### 📁 Repository Contents
 - [`Tableau BlinkIT Grocery Project U16955293080.txt`](https://github.com/yashlimbasiya444/Blinkit-Dashboard/blob/main/Tableau%20BlinkIT%20Grocery%20Project%20U16955293080.txt) – Raw dataset (CSV-format, used for analysis and dashboard creation)
 - `screenshots/` – Dashboard images and visualizations
 - `README.md` – Project documentation, instructions, and dashboard link
+
+
+## 🛠️ Tools Used
+- Tableau Public
+- Excel/CSV for data
 
 > The dataset file is in CSV format (comma-separated values), saved as `.txt` for file management. You can open and analyze it in Excel, Google Sheets, or any text editor.
 
