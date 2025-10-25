@@ -22,9 +22,10 @@ Or try direct Tableau Public link if you have it:<br>
 ![Dashboard Screenshot](Screenshot-2025-09-14-190153.jpg)
 
 ## 📁 Repository Contents
-- `data/` - Raw dataset (CSV)
-- `screenshots/` - Dashboard images
-- `README.md` - Project documentation
+- [`Tableau BlinkIT Grocery Project U16955293080.txt`](https://github.com/yashlimbasiya444/Blinkit-Dashboard/blob/main/Tableau%20BlinkIT%20Grocery%20Project%20U16955293080.txt) – Raw dataset (CSV-format, used for analysis and dashboard creation)
+- `screenshots/` – Dashboard images and visualizations
+- `README.md` – Project documentation, instructions, and dashboard link
+
 
 ## 🛠️ Tools Used
 - Tableau Public
